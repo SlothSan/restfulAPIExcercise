@@ -1,5 +1,11 @@
 Reminders API Readme
 
+Setup: 
+
+Create a db in MongoDb called "reminders" 
+Create a collection in the db called "reminders"
+import the JSON file in the db folder in the repo into the "reminders" collection
+
 Routes
 
 POST  
